@@ -81,4 +81,3 @@ You can find the screenshots in the screenshots folder in the root directory
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## License
 MIT License
-Hello
