@@ -33,7 +33,7 @@ Whereabouts is a real-time location-sharing app built with Flutter for the front
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/your-repo/whereabouts.git
+git clone https://github.com/JoelV1234/Whereabouts.git
 cd whereabouts
 ```
 
