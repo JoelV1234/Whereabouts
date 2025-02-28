@@ -51,7 +51,6 @@ dependencies:
   rxdart: ^0.28.0
   google_maps_flutter: ^2.10.0
   permission_handler: ^11.3.1
-  flutter_geofire: ^2.0.4
   geoflutterfire_plus: ^0.0.32
   location: ^8.0.0
   maputil: ^0.0.1
