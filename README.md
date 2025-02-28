@@ -2,6 +2,9 @@
 
 Whereabouts is a real-time location-sharing app built with Flutter for the frontend and powered by Firebase and Cloud Functions on the backend. It allows users to share their live location with friends, see others on a map, and manage privacy settings seamlessly.
 
+## APK Download
+[Download APK](https://drive.google.com/file/d/1FiBLoE0te1UmR_eFF5aFDqva5HrBMJhe/view?usp=sharing)
+
 ## Features
 
 - Real-time location sharing
